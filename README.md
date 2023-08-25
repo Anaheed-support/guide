@@ -38,4 +38,26 @@
   </table>
 
 
-4. 
+4. نرم‌افزار v2rayNG را باز کرده، بر روی + زده و گزینه دوم از بالا یعنی "Import config from Clipboard" انتخاب کنید.
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android04.png"> </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android05.png"> </td>
+    </tr>
+  </table>
+
+در صورتی که منوهای نرم‌افزار فارسی هستند، گزینه "پیکربندی را از کلیپ‌بورد وارد کنید" را انتخاب کنید.
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android06.png"> </td>
+    </tr>
+  </table>
+
+5. 
