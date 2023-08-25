@@ -21,7 +21,6 @@
       <td> <img width="300" src="screenshots/android01.png"> </td>
     </tr>
   </table>
-  
 ---
 3. لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید.
 
