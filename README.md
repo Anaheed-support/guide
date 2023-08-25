@@ -133,4 +133,20 @@ https://github.com/Anaheed-support/guide/blob/main/databases/iran.dat
   </table>
 
   ---
-  11.
+  11. بار دیگر روی "سه خط عمودی" زده و این بار گزینه دوم از بالا یعنی Settings را انتخاب می‌کنیم. 
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android10.png"> </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android15.png"> </td>
+    </tr>
+  </table>
+
+  ---
+
+  12. 
