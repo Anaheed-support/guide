@@ -12,7 +12,7 @@
 
     
      https://github.com/Anaheed-support/guide/blob/main/applications/v2rayNG-android.apk
- 
+ ---
 2. پس از نصب و اجرای نرم‌افزار، صفحه زیر را خواهید دید.
 
 
@@ -22,7 +22,7 @@
     </tr>
   </table>
   
-
+---
 3. لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید.
 
 <table>
