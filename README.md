@@ -23,4 +23,19 @@
   </table>
   
 
-3. لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید. 
+3. لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید.
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android02.png"> </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android03.png"> </td>
+    </tr>
+  </table>
+
+
+4. 
