@@ -9,14 +9,14 @@
 - # Android
   -   ابتدا نرم‌افزار v2rayNG را از Play Store یا از لینک زیر دانلود کنید:
     
-   https://github.com/Anaheed-support/guide/blob/main/applications/v2rayNG-android.apk
+     https://github.com/Anaheed-support/guide/blob/main/applications/v2rayNG-android.apk
  
   -   پس از نصب و اجرای نرم‌افزار
 
-<table>
-  <tr>
-    <td> <img width="400" src="screenshots/android01.png"> </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td> <img width="400" src="screenshots/android01.png"> </td>
+    </tr>
+  </table>
 
   - لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید. 
