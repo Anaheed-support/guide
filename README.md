@@ -36,8 +36,8 @@
       <td> <img width="300" src="screenshots/android03.png"> </td>
     </tr>
   </table>
+  
 ---
-
 4. نرم‌افزار v2rayNG را باز کرده، بر روی + زده و گزینه دوم از بالا یعنی "Import config from Clipboard" انتخاب کنید.
 
 <table>
@@ -59,6 +59,7 @@
       <td> <img width="300" src="screenshots/android06.png"> </td>
     </tr>
   </table>
+  
 ---
 5. بعد از اضافه شدن یک لینک در صفحه اول نرم‌افزار، در پایین صفحه روی دکمه دایره‌ای شکل طوسی رنگی که حرف "V" بر روی آن نوشته شده کلیک کنید.
 
@@ -67,6 +68,7 @@
       <td> <img width="300" src="screenshots/android07.png"> </td>
     </tr>
   </table>
+  
 ---
 6. در مرحله بعد، با زدن دکمه OK با ساخت یک کانکشن توسط v2rayNG موافقت کنید.
 
@@ -75,6 +77,7 @@
       <td> <img width="300" src="screenshots/android08.png"> </td>
     </tr>
   </table>
+  
 ---
 7. 
 
