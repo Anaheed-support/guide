@@ -18,7 +18,7 @@
 
   <table>
     <tr>
-      <td> <img width="400" src="screenshots/android01.png"> </td>
+      <td> <img width="300" src="screenshots/android01.png"> </td>
     </tr>
   </table>
   
