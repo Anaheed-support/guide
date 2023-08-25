@@ -99,4 +99,17 @@ https://github.com/Anaheed-support/guide/blob/main/databases/iran.dat
 
 9. پس از دانلود فایل، v2rayNG راباز کرده و روی "سه خط عمودی" زده و گزینه سوم از بالا با نام "Geo asset files" را انتخاب می‌کنیم. 
 
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android10.png"> </td>
+    </tr>
+  </table>
 
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android11.png"> </td>
+    </tr>
+  </table>
+
+  ---
+  10. 
