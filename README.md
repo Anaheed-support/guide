@@ -113,3 +113,25 @@ https://github.com/Anaheed-support/guide/blob/main/databases/iran.dat
 
   ---
   10. 
+در صفحه جدید، با زدن دکمه + در بالای صفحه نرم‌افزار، فایل iran.dat را که در مرحله ۸ دانلود کرده بودیم را بارگذاری می‌کنیم. 
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android12.png"> </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android13.png"> </td>
+    </tr>
+  </table>
+
+پس ازاطمینان از بارگذاری iran.dat در بخش Geo asset files، با زدن دکمه "فِلِش" به صفحه اصلی برمی‌گردیم.
+  <table>
+    <tr>
+      <td> <img width="300" src="screenshots/android14.png"> </td>
+    </tr>
+  </table>
+
+  ---
+  11.
