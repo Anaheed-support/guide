@@ -7,8 +7,11 @@
 - برای بهره‌مندی از تمامی قابلیت‌های سرویس، تنظیمات ذکر شده در پایین را بر اساس نوع سیستم‌عامل مورد استفاده دستگاه خود، انتخاب و با دقت انجام دهید.
 
 - # Android
-  -   ابتدا نرم‌افزار v2rayNG را از لینک زیر دانلود کنید:
-  -   
+  -   ابتدا نرم‌افزار v2rayNG را از Play Store یا از لینک زیر دانلود کنید:
+    
    https://github.com/Anaheed-support/guide/blob/main/applications/v2rayNG-android.apk
  
-  -   پس از نصب نرم‌افزار 
+  -   پس از نصب و اجرای نرم‌افزار
+https://github.com/Anaheed-support/guide/blob/main/screenshots/android01.png
+
+  - لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید. 
