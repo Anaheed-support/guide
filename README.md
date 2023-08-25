@@ -112,8 +112,7 @@ https://github.com/Anaheed-support/guide/blob/main/databases/iran.dat
   </table>
 
   ---
-  10. 
-در صفحه جدید، با زدن دکمه + در بالای صفحه نرم‌افزار، فایل iran.dat را که در مرحله ۸ دانلود کرده بودیم را بارگذاری می‌کنیم. 
+  10. در صفحه جدید، با زدن دکمه + در بالای صفحه نرم‌افزار، فایل iran.dat را که در مرحله ۸ دانلود کرده بودیم را بارگذاری می‌کنیم. 
 <table>
     <tr>
       <td> <img width="300" src="screenshots/android12.png"> </td>
