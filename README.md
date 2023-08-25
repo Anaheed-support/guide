@@ -12,6 +12,11 @@
    https://github.com/Anaheed-support/guide/blob/main/applications/v2rayNG-android.apk
  
   -   پس از نصب و اجرای نرم‌افزار
-https://github.com/Anaheed-support/guide/blob/main/screenshots/android01.png
+
+<table>
+  <tr>
+    <td> <img width="400" src="screenshots/android01.png"> </td>
+  </tr>
+</table>
 
   - لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید. 
