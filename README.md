@@ -67,3 +67,16 @@
       <td> <img width="300" src="screenshots/android07.png"> </td>
     </tr>
   </table>
+
+6. در مرحله بعد، با زدن دکمه OK با ساخت یک کانکشن توسط v2rayNG موافقت کنید.
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android08.png"> </td>
+    </tr>
+  </table>
+
+7. 
+
+
+
