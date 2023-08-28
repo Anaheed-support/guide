@@ -154,6 +154,25 @@ https://github.com/Anaheed-support/guide/blob/main/databases/iran.dat
 - # ios
 
 1. برنامه زیر را دانلود کنید:
+
 https://apps.apple.com/us/app/fair-vpn/id1533873488
+
 ---
-2. 
+
+2. لینکی که از طریق Whatsapp, email یا روش‌های دیگر برای شما فرستاده شده است را انتخاب و copy کنید.
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android02.png"> </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/android03.png"> </td>
+    </tr>
+  </table>
+  
+---
+
+3. وارد برنامه FairVPN شده و طبق تصاویر زیر عمل کنید:
