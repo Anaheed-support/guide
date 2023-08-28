@@ -176,3 +176,18 @@ https://apps.apple.com/us/app/fair-vpn/id1533873488
 ---
 
 3. وارد برنامه FairVPN شده و طبق تصاویر زیر عمل کنید:
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/ios01.png"> </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/ios02.png"> </td>
+    </tr>
+  </table>
+
+  ---
+  
