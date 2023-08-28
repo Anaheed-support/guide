@@ -190,4 +190,13 @@ https://apps.apple.com/us/app/fair-vpn/id1533873488
   </table>
 
   ---
-  
+
+  4. پس از اینکه کانکشن‌ اضافه شد، آن را روشن کنید:
+
+<table>
+    <tr>
+      <td> <img width="300" src="screenshots/ios03.png"> </td>
+    </tr>
+  </table>
+
+  ---
