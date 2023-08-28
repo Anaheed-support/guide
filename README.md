@@ -153,3 +153,7 @@ https://github.com/Anaheed-support/guide/blob/main/databases/iran.dat
 
 - # ios
 
+1. برنامه زیر را دانلود کنید:
+https://apps.apple.com/us/app/fair-vpn/id1533873488
+---
+2. 
