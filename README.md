@@ -179,13 +179,13 @@ https://apps.apple.com/us/app/fair-vpn/id1533873488
 
 <table>
     <tr>
-      <td> <img width="300" src="screenshots/ios01.png"> </td>
+      <td> <img width="300" src="screenshots/ios001.png"> </td>
     </tr>
   </table>
 
 <table>
     <tr>
-      <td> <img width="300" src="screenshots/ios02.png"> </td>
+      <td> <img width="300" src="screenshots/ios002.png"> </td>
     </tr>
   </table>
 
@@ -195,7 +195,7 @@ https://apps.apple.com/us/app/fair-vpn/id1533873488
 
 <table>
     <tr>
-      <td> <img width="300" src="screenshots/ios03.png"> </td>
+      <td> <img width="300" src="screenshots/ios003.png"> </td>
     </tr>
   </table>
 
